@@ -15,4 +15,6 @@ In this project, there are features for  an Admin as well as a Student.
  9. Add A New Member
  10. Exit the program
 
+This project requires 2 text files: librecord.txt and membrrecord.txt. These files will store the records of newly added books and members.
+
 This project was academic. Built this in Semester 3 of Engineering.
