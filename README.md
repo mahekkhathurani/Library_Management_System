@@ -1,25 +1,18 @@
 # Library_Management_System
 
-In this project, there are two options either to Login as an Admin or Login as a Student.
+In this project, there are features for  an Admin as well as a Student.
 
-# Features available for Admin:
-Menu for Admin
-
-1. Insert a Book
-2. Search a Book
-3. Display all books
-4. Delete a Book
-5. Exit
-
-# Features available for Student:
-Menu for Student
-
-1. View all Books 
-2. Search a Book
-3. Issue a book
-4. View Issued Book
-5. Return a Book
-6. Exit
-
+# Features available:
+        ~~MENU~~
+ 1. Add A New Book
+ 2. Search a book
+ 3. Display Complete Information
+ 4. Display All Books of An Author
+ 5. List Titles of a Book
+ 6. List Count of Books (Issued & In Stock)
+ 7. To Issue a Book
+ 8. To Return a Book
+ 9. Add A New Member
+ 10. Exit the program
 
 This project was academic. Built this in Semester 3 of Engineering.
